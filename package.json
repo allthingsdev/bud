@@ -1,0 +1,22 @@
+{
+  "name": "bud",
+  "version": "1.0.0",
+  "description": "Express JS Home Budgeting App Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allthingsdev/bud.git"
+  },
+  "keywords": [
+    "Budgeting"
+  ],
+  "author": "Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allthingsdev/bud/issues"
+  },
+  "homepage": "https://github.com/allthingsdev/bud#readme"
+}
